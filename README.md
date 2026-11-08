@@ -2,8 +2,6 @@
 
 ## JS-moduulit 1 ja 2
 
-[Linkki JS-moduulin 1 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~Hasinamo/js1-folder)
-
 https://users.metropolia.fi/~hasinamo/JS-moduuli-1ja2/?utm_source=chatgpt.com
 
 # Tehdyt tehtävät:
