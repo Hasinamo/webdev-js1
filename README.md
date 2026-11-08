@@ -22,7 +22,7 @@
 
 ### JS-moduuli 3
 
-[Tehtävät 1, 2, 3, 6 ja 8 – avaa tehtävät](https://users.metropolia.fi/~hasinamo/JS-moduuli-3/repository/JS-moduuli3/)
+(https://users.metropolia.fi/~hasinamo/JS-moduuli-3/repository/JS-moduuli3/)
 
 https://users.metropolia.fi/~hasinamo/JS-moduuli-3/repository/JS-moduuli3/
 
