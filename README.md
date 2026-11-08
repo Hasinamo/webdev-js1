@@ -24,7 +24,6 @@
 
 (https://users.metropolia.fi/~hasinamo/JS-moduuli-3/repository/JS-moduuli3/)
 
-https://users.metropolia.fi/~hasinamo/JS-moduuli-3/repository/JS-moduuli3/
 
 
 # Tehdyt tehtävät:
