@@ -2,7 +2,7 @@
 
 ## JS-moduulit 1 ja 2
 
-https://users.metropolia.fi/~hasinamo/JS-moduuli-1ja2/?utm_source=chatgpt.com
+https://users.metropolia.fi/~hasinamo/JS-moduuli-1ja2/
 
 # Tehdyt tehtävät:
 
