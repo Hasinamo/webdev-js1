@@ -34,4 +34,4 @@
 - Tehtävä 6: 2 p
 - Tehtävä 8: 2 p
 
-**Yhteensä 10p**
+** Yhteensä 10p**
