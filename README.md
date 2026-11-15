@@ -36,3 +36,25 @@ https://users.metropolia.fi/~hasinamo/JS-moduuli-1ja2/
 - Tehtävä 8: 2 p
 
 ** Yhteensä 10p**
+
+
+## Ohjelmisto 2 -ohjelmointitehtävät
+
+### JS-moduuli 4
+
+https://users.metropolia.fi/~hasinamo/JS-moduuli-4/
+
+
+# Tehdyt tehtävät:
+
+# Moduuli 4
+- Tehtävä 1: 2 p
+- Tehtävä 2: 2 p
+- Tehtävä 3: 2 p
+- Tehtävä 4: 2 p
+- Tehtävä 6: 1 p
+- Tehtävä 7: 2 p
+
+** Yhteensä 11p**
+
+
