@@ -72,7 +72,7 @@ https://users.metropolia.fi/~hasinamo/JS-moduuli-4/
 - Tehtävä 2: 3p
 - Tehtävä 3: 7p
 
-**Yhteensä 12p**
+** Yhteensä 12p **
 
 ## Python Flask
 
@@ -85,6 +85,6 @@ https://users.metropolia.fi/~hasinamo/JS-moduuli-4/
 - Tehtävä 1: 4p
 - Tehtävä 1: 6p
 
-**Yhteensä 10p**
+** Yhteensä 10p **
 
 
