@@ -58,3 +58,33 @@ https://users.metropolia.fi/~hasinamo/JS-moduuli-4/
 ** Yhteensä 11p**
 
 
+
+## Ohjelmisto 2 -ohjelmointitehtävät
+
+### JS-moduuli 5
+
+[https://users.metropolia.fi/~hasinamo/JS-moduuli-5/](https://users.metropolia.fi/~hasinamo/JS-moduuli-5/)
+
+# Tehdyt tehtävät:
+
+# Moduuli 5
+- Tehtävä 1: 2p
+- Tehtävä 2: 3p
+- Tehtävä 3: 7p
+
+**Yhteensä 12p**
+
+## Python Flask
+
+[https://users.metropolia.fi/~hasinamo/python%20flask/](https://users.metropolia.fi/~hasinamo/python%20flask/)
+
+# Tehdyt tehtävät:
+
+# Python Flask
+
+- Tehtävä 1: 4p
+- Tehtävä 1: 6p
+
+**Yhteensä 10p**
+
+
